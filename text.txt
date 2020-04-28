@@ -1,0 +1,2 @@
+1 2 Kingsize
+2 2 SingleBed
